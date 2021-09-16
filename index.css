@@ -1,0 +1,42 @@
+.map {
+    position: absolute;
+    background-image: url(map.jpg);
+    width: 70%;
+    height: 100%;
+    margin-top: -2%;
+}
+.captain {
+    position: absolute;
+    width: 10%;
+    height: auto;
+    top: 30%;
+    left: 15%;
+}
+.ship {
+    position: absolute;
+    width: 20%;
+    height: auto;
+    top: 65%;
+    left: 65%;
+}
+.window {
+    position: absolute;
+    right: 0;
+    width: 30%;
+    height: 100%;
+    background-color: brown;
+}
+.frame {
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    top: 10%;
+}
+.button{
+    position: absolute;
+    top: 90%;
+}
+.form {
+    position: absolute;
+    top: 100%;
+}
